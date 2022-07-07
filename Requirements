@@ -1,0 +1,9 @@
+# Imports Used
+import pyqrcode
+from colorama import Fore, Back
+import time
+import sys
+import os
+
+python3 -m pip install colorama
+python3 -m pip install pyqrcode
